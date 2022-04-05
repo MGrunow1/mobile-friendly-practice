@@ -1,7 +1,18 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
 header {
     background-color: darkcyan;
     color: white;
     text-align: center;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 25px;
+}
+h1 {
+    color: darkcyan;
+}
+.left-justify {
+    text-align: left;
+}
+.right-justify {
+    text-align: right;
 }
