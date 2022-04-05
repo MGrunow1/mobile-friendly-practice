@@ -1,5 +1,5 @@
 body {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Times New Roman', Times, serif
 }
 header {
     height: 190px;
@@ -7,6 +7,7 @@ header {
     background-image: linear-gradient(rgb(1,209,251),rgb(0,30,37));
     color: white;
     text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 35px;
 }
 h1 {
